@@ -1,3 +1,5 @@
+##感谢qiueer的文章，本文为转载
+
 ## 项目说明
 ```
 主要用来扩展zabbix的功能，增加对Tomcat/JVM/MYSQL/Redis/Memcache/Mongodb/Nginx等的监控
